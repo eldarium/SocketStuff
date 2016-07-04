@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SocketStuff</string>
+    <string name="action_settings">Set Port</string>
+    <string name="set_port">Set port</string>
+    <string name="button_ok">OK</string>
+    <string name="set_port_success">Port set successfully!</string>
+    <string name="set_port_wrong_input">Wrong input as port number (must be more than 0 and less than 65536) - </string>
+</resources>
